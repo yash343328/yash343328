@@ -19,7 +19,7 @@
 
 **Yash Jain**  
 📞 +91 9870604468 | ✉️ perfectjainyash@gmail.com | 🎂 DOB: 01/01/2003  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-jain-2410) | 🐱 [GitHub](https://github.com/yash343328) | 🤗 [HuggingFace](#) | 🏆 [Trailhead](#) 
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-jain-2410) | 🐱 [GitHub](https://github.com/yash343328) | 🤗 [HuggingFace](https://huggingface.co/Perfectyash) | 🏆 [Trailhead](https://www.salesforce.com/trailblazer/w4hn65225lnozi6h24) 
 
 ---
 
