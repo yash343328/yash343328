@@ -27,6 +27,7 @@
 Aspiring MCA graduate and Full-Stack Developer with expertise in AI, Machine Learning, and Generative AI. Skilled in Python, Java, SQL, and modern web technologies with hands-on experience in building AI/ML models, deploying MLOps pipelines, and developing end-to-end software solutions. Strong foundation in cybersecurity, networking, and database management, with proven ability to deliver scalable and secure projects in dynamic environments.
 
 ---
+
 ## 🛠️ Technical Skills
 
 ### Programming
@@ -62,5 +63,11 @@ Aspiring MCA graduate and Full-Stack Developer with expertise in AI, Machine Lea
 - **LinkedIn:** [yash-jain2003](https://www.linkedin.com/in/yash-jain-834677232/)  
 - **Portfolio:** (https://jainyashportfolio.netlify.app/)  
 
+---
+
 [![](https://visitcount.itsvg.in/api?id=yash343328&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
