@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=🤖+AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;🧠+Building+Systems+That+Think;⚡+LLMs+•+PyTorch+•+BERT+•+FastAPI+•+ReactJS;🔐+Cybersecurity+Researcher+%26+Author;🎓+MCA+Student+%7C+CGPA+8.93+%2F+10" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Building+Systems+That+Think;LLMs+%E2%80%A2+PyTorch+%E2%80%A2+BERT+%E2%80%A2+FastAPI;Cybersecurity+Researcher+%26+Author;MCA+Student+%7C+CGPA+8.93+%2F+10" alt="Typing SVG" />
 
 <br/>
 
