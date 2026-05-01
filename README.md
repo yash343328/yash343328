@@ -92,14 +92,13 @@ me.say_hi()
 
 | 🔬 Project | 💡 Description | 🛠️ Stack |
 |:---:|:---|:---:|
-| **🔐 CyberLens** | Interactive cybersecurity learning platform with real-world threat simulations & attack scenario modules | `ReactJS` `Vite` `JavaScript` |
-| **📝 CodeVerse** | Full-stack blogging platform — user auth, dynamic CMS, interactive code snippets | `ReactJS` `FastAPI` `REST API` |
-| **🗃️ Virtual DB** | Browser-based SQL execution system — no local setup needed, real-time query visualization | `SQL` `DBMS` `Web Tech` |
-| **🤚 Gesture Recognition** | Real-time hand gesture recognition using sensors + ML models for human-computer interaction | `Arduino` `Python` `ML` |
-| **🌐 Campus Network** | Scalable campus network simulation with VLANs, routers, switches & secure architecture | `Cisco Packet Tracer` `Networking` |
+| **🚦 Adaptive Traffic Signal Optimization RL** | Advanced multi-agent reinforcement learning system for real-time urban traffic signal optimization using decentralized Q-Learning, simulation, and statistical analysis | `Julia` `Reinforcement Learning` `Multi-Agent Systems` |
+| **🧠 AdaptiCache** | Intelligent adaptive cache replacement engine that dynamically switches between LRU, FIFO, LFU, and CLOCK policies using workload-aware real-time analysis | `C` `Systems Programming` `Cache Optimization` |
+| **⚡ AI Energy Optimizer** | Smart AI workload energy optimization platform with predictive analytics, telemetry monitoring, and energy-aware resource scheduling | `C#` `.NET` `AI Optimization` |
+| **🧮 Adaptive Neural Cache Optimizer (ANCO)** | Machine learning-powered cache optimization system leveraging Q-learning and bandit algorithms to maximize cache efficiency and performance | `Ruby` `Machine Learning` `Q-Learning` |
+| **📰 CogniScan AI Fake News Detector** | Explainable AI-powered fake news and cognitive bias detection platform using ensemble NLP models and interpretable machine learning techniques | `Python` `NLP` `Explainable AI` |
 
 </div>
-
 ---
 
 ## 💼 Experience
